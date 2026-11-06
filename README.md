@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [astral-sh/ruff](https://github.com/astral-sh/ruff) · MIT
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 <!-- Begin section: Overview -->
 
 # Ruff
